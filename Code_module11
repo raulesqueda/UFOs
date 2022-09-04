@@ -1,0 +1,5 @@
+// Printing a string with JavaScript
+console.log("Hello, world!");
+
+# Printing a string with Python
+print("Hello, world!")
